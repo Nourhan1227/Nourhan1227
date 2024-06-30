@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nourhan-ashour-8b710123a">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <a href="https://www.linkedin.com/in/nourhan-ashour-8b710123a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img width="12" />
 
@@ -13,7 +13,7 @@
   </a>
    <img width="12" />
  
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+  <a href="nourashour1227@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   
